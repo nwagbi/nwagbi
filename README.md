@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @nwagbi
-- 👀 I’m interested in maths(not good at it though)
-- 🌱 I’m currently learning software design
 - 💞️ I’m looking to collaborate on quantum
 - 📫 How to reach me nwagbi@proton.ne
-- 😄 Pronouns: they
+- 😄 Pronouns: he and him
 - ⚡ Fun fact: i love starlight
 
 <!---
